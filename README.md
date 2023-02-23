@@ -1,1 +1,7 @@
-There is no end to learning, and there is no turning back
+
+[![Metrics](./github-metrics.svg)](https://github.com/mMrBun)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=willfindlay&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+  
+
